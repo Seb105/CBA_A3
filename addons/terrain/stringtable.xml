@@ -2,7 +2,7 @@
 <Project name="CBA_A3">
     <Package name="Strings">
         <Key ID="STR_CBA_Strings_Component">
-            <English>Community Base Addons - Strings</English>
+            <English>Community Base Addons - Terrain</English>
             <German>Community Base Addons - Zeichenketten</German>
             <Japanese>Community Base Addons - ストリングス</Japanese>
             <Chinese>社群基礎模組 - 字串</Chinese>
@@ -14,36 +14,6 @@
             <Turkish>Community Base Addons - Yazılar</Turkish>
             <Italian>Community Base Addons - Stringhe</Italian>
             <Czech>Community Base Addons - Texty</Czech>
-        </Key>
-        <Key ID="STR_CBA_FORMAT_NUMBER_DECIMAL_POINT">
-            <English>.</English>
-            <Czech>,</Czech>
-            <German>,</German>
-            <Polish>,</Polish>
-            <Russian>,</Russian>
-            <French>,</French>
-            <Spanish>,</Spanish>
-            <Italian>,</Italian>
-            <Japanese>,</Japanese>
-            <Chinese>.</Chinese>
-            <Chinesesimp>.</Chinesesimp>
-            <Portuguese>,</Portuguese>
-            <Turkish>,</Turkish>
-        </Key>
-        <Key ID="STR_CBA_FORMAT_NUMBER_THOUSANDS_SEPARATOR">
-            <English>,</English>
-            <Czech> </Czech>
-            <German>.</German>
-            <Polish> </Polish>
-            <Russian> </Russian>
-            <French> </French>
-            <Spanish> </Spanish>
-            <Italian>,</Italian>
-            <Japanese>,</Japanese>
-            <Chinese>,</Chinese>
-            <Chinesesimp>,</Chinesesimp>
-            <Portuguese>.</Portuguese>
-            <Turkish>.</Turkish>
         </Key>
     </Package>
 </Project>

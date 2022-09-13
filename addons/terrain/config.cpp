@@ -6,12 +6,13 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"cba_common"};
+        requiredAddons[] = {"cba_common", "cba_xeh"};
         author = "$STR_CBA_Author";
-        authors[] = {"Spooner", "Kronzky"};
+        authors[] = {"Seb"};
         url = "$STR_CBA_URL";
         VERSION_CONFIG;
     };
 };
 
 #include "CfgFunctions.hpp"
+#include "CfgEventHandlers.hpp"
